@@ -2,7 +2,7 @@
 
 Predicting daily bike-rental demand for a bike-sharing company (Washington D.C., 2011–2012) with classic machine-learning models in **scikit-learn**.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oded-tsfati/ML/blob/main/ML_Bike_Rental.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oded-tsfati/bike-rental-ml/blob/main/ML_Bike_Rental.ipynb)
 
 ## Goal
 Use calendar and weather features (season, year, month, holiday, weekday, working day, weather situation) to:
